@@ -1,7 +1,7 @@
 # 基于ES6的八种常用排序实现(持续更新)
 
 ## 冒泡排序
-- bubbleSort.js
+- bubbleSort.js[可以通过传入第二个参数来控制升序和降序]
 
 ## 快速排序
-- quickSort.js
+- quickSort.js[可以通过传入第二个参数来控制升序和降序]
